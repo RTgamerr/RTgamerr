@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RTgamerr
-- 👀 I’m interested in video games and making video games
-- 🌱 I’m currently learning coding and learning how to make games
-- 💞️ I’m looking to collaborate with a person to code with or to help me with coding and making games oh one thing I use unity and roblox studio
-- 📫 How to reach me, discord my user is dilshwagons#2308 or roblox SpeedRacer756 yt RT_headshot or RTgamer
+- 👀 I’m interested in video games and cyber security
+- 🌱 I’m currently learning programming and cyber security
+- 💞️ I’m looking to collaborate with a person to program with or help me while programming
+- 📫 How to reach me, my discord is MaxGang4chan/pol/#5031 if that does not work I might have changed it
 
 <!---
 RTgamerr/RTgamerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
